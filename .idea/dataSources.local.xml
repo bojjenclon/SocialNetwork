@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - cinf201_cmdaly@localhost" uuid="07d74aa2-b80d-4dc0-a5cb-e6e0c19953c0">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>cinf201_cmdaly.*</schema-pattern>
+      <default-schemas>cinf201_cmdaly.*</default-schemas>
+    </data-source>
+  </component>
+</project>
